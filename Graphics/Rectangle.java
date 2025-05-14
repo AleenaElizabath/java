@@ -1,5 +1,5 @@
 package Graphics;
-public class Rectangle {
+public class Rectangle implements Figure {
     int length;
     int breadth;
     public Rectangle(int l,int b){
